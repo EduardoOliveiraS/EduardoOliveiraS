@@ -1,4 +1,4 @@
-- 👋  Fala aí dev,aqui é o Eduardo!!!
+- ##👋  Fala aí dev,aqui é o Eduardo!!!
 - 👀 Sempre intereçado em aprender mais!
 - 🌱 Atualmente estou aprendendo html e css...
 - 📫 Como chegar até mim paraeduoliveira@gmail.com
